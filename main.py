@@ -5,7 +5,7 @@ print("Owen2k6 Launcher V0.5")
 print("Copyright (C) 2022 Owen2k6")
 
 # ADMIN DB RESET. DO NOT TOUCH.
-#db["RUNINNIT"] = int(0)
+db["RUNINNIT"] = int(0)
 # END OF ADMIN. DO NOT UNCOMMENT.
 
 # ADMIN LOADER. DO NOT REMOVE OR COMMENT
@@ -20,9 +20,9 @@ if input1 == "system":
   if inpt == "stats":
     print(f"Statistics for Owen2k6/School_Work \n Times the launcher has been used: {RUNINT}")
 # END SYS LDR
-if input1 == "example":
+if input1 == "test":
   RUN = True
-  import null
+  import testo2k6l
 print("")
 print("")
 print("")
