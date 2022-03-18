@@ -19,6 +19,8 @@ if input1 == "system":
   inpt = input("0:\\")
   if inpt == "stats":
     print(f"Statistics for USERNAME\REPL \n Times the launcher has been used: {RUNINT}")
+  if inpt == "update":
+    import update
 # END SYS LDR
 if input1 == "test":
   RUN = True
