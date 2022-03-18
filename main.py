@@ -18,7 +18,7 @@ input1 = input("enter PY name: ")
 if input1 == "system":
   inpt = input("0:\\")
   if inpt == "stats":
-    print(f"Statistics for Owen2k6/School_Work \n Times the launcher has been used: {RUNINT}")
+    print(f"Statistics for USERNAME\REPL \n Times the launcher has been used: {RUNINT}")
 # END SYS LDR
 if input1 == "test":
   RUN = True
