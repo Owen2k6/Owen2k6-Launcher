@@ -5,7 +5,7 @@ print("Owen2k6 Launcher V0.5")
 print("Copyright (C) 2022 Owen2k6")
 
 # ADMIN DB RESET. DO NOT TOUCH.
-db["RUNINNIT"] = int(0)
+# db["RUNINNIT"] = int(0)
 # END OF ADMIN. DO NOT UNCOMMENT IF ALREADY SET UP.
 
 # ADMIN LOADER. DO NOT REMOVE OR COMMENT
