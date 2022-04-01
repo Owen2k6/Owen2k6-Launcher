@@ -1,6 +1,7 @@
 #    Copyright (C) 2022  Owen2k6
 #    Do not modify this code
 from replit import db
+import system
 print("Owen2k6 Launcher V0.5")
 print("Copyright (C) 2022 Owen2k6")
 
